@@ -1,0 +1,15 @@
+﻿node_modules/
+.next/
+apps/frontend/.next/
+apps/frontend/node_modules/
+apps/backend/.env
+apps/frontend/.env.local
+__pycache__/
+*.pyc
+.venv/
+venv/
+dist/
+build/
+*.egg-info/
+.DS_Store
+Thumbs.db
